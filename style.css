@@ -1,0 +1,62 @@
+body {
+    /* background-image: url(../Hackathon/images/ocean.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    text-align: center;
+}
+
+.images ul {
+    list-style: none;
+    margin-top: 150px;
+}
+
+.images ul li a img {
+    float: inline-start;
+    margin: 6em;
+}
+
+.quote{
+    text-align: center;
+    margin-top: 200px;
+}
+
+#github {
+    width: 100px;
+
+}
+
+#youtube {
+    width: 100px;
+}
+
+#w3schools {
+    width: 100px;
+}
+
+#leetcode {
+    width: 100px;
+}
+
+#cs50 {
+    width: 100px;
+}
+#stackoverflow {
+    width: 100px;
+}
+#quote-area{
+    width: 800px;
+    border-radius: 20px;
+}
+#generate{
+    margin-top: 50px;
+    border-radius: 20px;
+    height: 35px;
+    width: 600px;
+}
+#generate:hover{
+    background-color: gray;
+}
