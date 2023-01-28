@@ -1,7 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,600;1,600&display=swap');
+
 body {
-    /* background-image: url(../Hackathon/images/ocean.jpg);
-    background-repeat: no-repeat;
-    background-size: 100%; */
+    color: white;
+    background-color:  #121212;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -11,7 +12,7 @@ body {
 
 .images ul {
     list-style: none;
-    margin-top: 150px;
+    margin-top: 175px;
 }
 
 .images ul li a img {
@@ -48,6 +49,9 @@ body {
     width: 100px;
 }
 #quote-area{
+    background-color:  #121212;
+    color: white;
+    font-family: Source Code Pro, monospace;
     font-style: italic;
     text-align: center;
     font-size: 60px;
@@ -56,7 +60,6 @@ body {
     border-radius: 20px;
 }
 #generate{
-    margin-top: 50px;
     border-radius: 20px;
     height: 35px;
     width: 600px;
