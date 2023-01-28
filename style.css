@@ -48,7 +48,11 @@ body {
     width: 100px;
 }
 #quote-area{
-    width: 800px;
+    font-style: italic;
+    text-align: center;
+    font-size: 60px;
+    width: 1200px;
+    border: none;
     border-radius: 20px;
 }
 #generate{
