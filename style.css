@@ -7,12 +7,13 @@ body {
 }
 
 .header {
+    font-size: 25px;
     text-align: center;
 }
 
 .images ul {
     list-style: none;
-    margin-top: 175px;
+    margin-top: 125px;
 }
 
 .images ul li a img {
@@ -22,7 +23,7 @@ body {
 
 .quote{
     text-align: center;
-    margin-top: 200px;
+    margin-top: 150px;
 }
 
 #github {
@@ -38,8 +39,8 @@ body {
     width: 100px;
 }
 
-#leetcode {
-    width: 100px;
+#codewars{
+    width: 125px;
 }
 
 #cs50 {
@@ -55,7 +56,7 @@ body {
     font-style: italic;
     text-align: center;
     font-size: 60px;
-    width: 1200px;
+    width: 75%;
     border: none;
     border-radius: 20px;
 }
@@ -66,4 +67,7 @@ body {
 }
 #generate:hover{
     background-color: gray;
+}
+#line{
+    width: 70%;
 }
