@@ -1,4 +1,4 @@
-# Programmer-Start-Page
+# Programmer-Home-Page
 This is a home page for programmers made for a hackathon coding competition based on the theme of productivity
 
 ## Purpose
